@@ -15,7 +15,7 @@ const List = () => {
             </Typography>
             <Box display="flex">
                 <Typography variant="h6" className={classes.title}>
-                    Explore new places
+                    Explore new  places
                 </Typography>
                  {/* <Autocomplete>  */}
                     <div className={classes.search}>
